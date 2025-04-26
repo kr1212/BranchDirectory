@@ -10,7 +10,7 @@ Swagger
 How to Setup and Run the Project
 
 Clone the repository
-git clone <repository-url>
+git clone https://github.com/kr1212/BranchDirectory.git
 cd branchdirectoryapi
 
 Install Dependencies
