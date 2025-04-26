@@ -1,0 +1,804 @@
+{
+  "branches": [
+    {
+      "branchCode": "BR001",
+      "branchName": "Bhopal Branch 1",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "15.356660",
+      "longitude": "78.876002"
+    },
+    {
+      "branchCode": "BR002",
+      "branchName": "Vijayawada Branch 2",
+      "branchCity": "Vijayawada",
+      "branchState": "Andhra Pradesh",
+      "latitude": "19.037362",
+      "longitude": "75.984022"
+    },
+    {
+      "branchCode": "BR003",
+      "branchName": "Visakhapatnam Branch 3",
+      "branchCity": "Visakhapatnam",
+      "branchState": "Andhra Pradesh",
+      "latitude": "22.755599",
+      "longitude": "79.013866"
+    },
+    {
+      "branchCode": "BR004",
+      "branchName": "Pune Branch 4",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "21.754619",
+      "longitude": "79.954559"
+    },
+    {
+      "branchCode": "BR005",
+      "branchName": "Mumbai Branch 5",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": "23.930377",
+      "longitude": "80.096216"
+    },
+    {
+      "branchCode": "BR006",
+      "branchName": "Patna Branch 6",
+      "branchCity": "Patna",
+      "branchState": "Bihar",
+      "latitude": "15.268893",
+      "longitude": "78.189657"
+    },
+    {
+      "branchCode": "BR007",
+      "branchName": "Lucknow Branch 7",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "21.587611",
+      "longitude": "76.485505"
+    },
+    {
+      "branchCode": "BR008",
+      "branchName": "Mumbai Branch 8",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": "20.548701",
+      "longitude": "79.590897"
+    },
+    {
+      "branchCode": "BR009",
+      "branchName": "Bhopal Branch 9",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "18.198633",
+      "longitude": "78.923474"
+    },
+    {
+      "branchCode": "BR010",
+      "branchName": "Delhi Branch 10",
+      "branchCity": "Delhi",
+      "branchState": "Delhi",
+      "latitude": "18.849198",
+      "longitude": "80.093113"
+    },
+    {
+      "branchCode": "BR011",
+      "branchName": "Vijayawada Branch 11",
+      "branchCity": "Vijayawada",
+      "branchState": "Andhra Pradesh",
+      "latitude": "23.472543",
+      "longitude": "75.649657"
+    },
+    {
+      "branchCode": "BR012",
+      "branchName": "Lucknow Branch 12",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "15.046085",
+      "longitude": "79.309708"
+    },
+    {
+      "branchCode": "BR013",
+      "branchName": "Chandigarh Branch 13",
+      "branchCity": "Chandigarh",
+      "branchState": "Chandigarh",
+      "latitude": "16.964975",
+      "longitude": "79.093843"
+    },
+    {
+      "branchCode": "BR014",
+      "branchName": "Coimbatore Branch 14",
+      "branchCity": "Coimbatore",
+      "branchState": "Tamil Nadu",
+      "latitude": "20.665452",
+      "longitude": "82.214452"
+    },
+    {
+      "branchCode": "BR015",
+      "branchName": "Lucknow Branch 15",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "20.423662",
+      "longitude": "76.070160"
+    },
+    {
+      "branchCode": "BR016",
+      "branchName": "Surat Branch 16",
+      "branchCity": "Surat",
+      "branchState": "Gujarat",
+      "latitude": "15.817313",
+      "longitude": "81.039117"
+    },
+    {
+      "branchCode": "BR017",
+      "branchName": "Bangalore Branch 17",
+      "branchCity": "Bangalore",
+      "branchState": "Karnataka",
+      "latitude": "15.227249",
+      "longitude": "81.598990"
+    },
+    {
+      "branchCode": "BR018",
+      "branchName": "Coimbatore Branch 18",
+      "branchCity": "Coimbatore",
+      "branchState": "Tamil Nadu",
+      "latitude": "20.454453",
+      "longitude": "79.998726"
+    },
+    {
+      "branchCode": "BR019",
+      "branchName": "Coimbatore Branch 19",
+      "branchCity": "Coimbatore",
+      "branchState": "Tamil Nadu",
+      "latitude": "21.255407",
+      "longitude": "74.498487"
+    },
+    {
+      "branchCode": "BR020",
+      "branchName": "Chandigarh Branch 20",
+      "branchCity": "Chandigarh",
+      "branchState": "Chandigarh",
+      "latitude": "15.179351",
+      "longitude": "80.713976"
+    },
+    {
+      "branchCode": "BR021",
+      "branchName": "Bhopal Branch 21",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "20.965926",
+      "longitude": "76.355534"
+    },
+    {
+      "branchCode": "BR022",
+      "branchName": "Pune Branch 22",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "16.272474",
+      "longitude": "79.890713"
+    },
+    {
+      "branchCode": "BR023",
+      "branchName": "Jaipur Branch 23",
+      "branchCity": "Jaipur",
+      "branchState": "Rajasthan",
+      "latitude": "21.864161",
+      "longitude": "80.138875"
+    },
+    {
+      "branchCode": "BR024",
+      "branchName": "Mumbai Branch 24",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": "18.736076",
+      "longitude": "82.699540"
+    },
+    {
+      "branchCode": "BR025",
+      "branchName": "Chennai Branch 25",
+      "branchCity": "Chennai",
+      "branchState": "Tamil Nadu",
+      "latitude": "17.967061",
+      "longitude": "79.188773"
+    },
+    {
+      "branchCode": "BR026",
+      "branchName": "Jaipur Branch 26",
+      "branchCity": "Jaipur",
+      "branchState": "Rajasthan",
+      "latitude": "16.215715",
+      "longitude": "74.765356"
+    },
+    {
+      "branchCode": "BR027",
+      "branchName": "Chandigarh Branch 27",
+      "branchCity": "Chandigarh",
+      "branchState": "Chandigarh",
+      "latitude": "24.875197",
+      "longitude": "76.221238"
+    },
+    {
+      "branchCode": "BR028",
+      "branchName": "Indore Branch 28",
+      "branchCity": "Indore",
+      "branchState": "Madhya Pradesh",
+      "latitude": "24.195952",
+      "longitude": "73.187332"
+    },
+    {
+      "branchCode": "BR029",
+      "branchName": "Bhopal Branch 29",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "20.179477",
+      "longitude": "80.443776"
+    },
+    {
+      "branchCode": "BR030",
+      "branchName": "Vijayawada Branch 30",
+      "branchCity": "Vijayawada",
+      "branchState": "Andhra Pradesh",
+      "latitude": "19.375903",
+      "longitude": "79.274812"
+    },
+    {
+      "branchCode": "BR031",
+      "branchName": "Visakhapatnam Branch 31",
+      "branchCity": "Visakhapatnam",
+      "branchState": "Andhra Pradesh",
+      "latitude": "23.117759",
+      "longitude": "81.809848"
+    },
+    {
+      "branchCode": "BR032",
+      "branchName": "Ahmedabad Branch 32",
+      "branchCity": "Ahmedabad",
+      "branchState": "Gujarat",
+      "latitude": "19.515374",
+      "longitude": "79.190804"
+    },
+    {
+      "branchCode": "BR033",
+      "branchName": "Pune Branch 33",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "21.668752",
+      "longitude": "78.217674"
+    },
+    {
+      "branchCode": "BR034",
+      "branchName": "Lucknow Branch 34",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "19.718446",
+      "longitude": "76.316915"
+    },
+    {
+      "branchCode": "BR035",
+      "branchName": "Mumbai Branch 35",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": "18.927896",
+      "longitude": "77.954056"
+    },
+    {
+      "branchCode": "BR036",
+      "branchName": "Vijayawada Branch 36",
+      "branchCity": "Vijayawada",
+      "branchState": "Andhra Pradesh",
+      "latitude": "18.964293",
+      "longitude": "79.444671"
+    },
+    {
+      "branchCode": "BR037",
+      "branchName": "Indore Branch 37",
+      "branchCity": "Indore",
+      "branchState": "Madhya Pradesh",
+      "latitude": "24.649247",
+      "longitude": "82.214359"
+    },
+    {
+      "branchCode": "BR038",
+      "branchName": "Lucknow Branch 38",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "19.581990",
+      "longitude": "74.625382"
+    },
+    {
+      "branchCode": "BR039",
+      "branchName": "Vijayawada Branch 39",
+      "branchCity": "Vijayawada",
+      "branchState": "Andhra Pradesh",
+      "latitude": "22.347808",
+      "longitude": "80.332091"
+    },
+    {
+      "branchCode": "BR040",
+      "branchName": "Ahmedabad Branch 40",
+      "branchCity": "Ahmedabad",
+      "branchState": "Gujarat",
+      "latitude": "17.893775",
+      "longitude": "75.817728"
+    },
+    {
+      "branchCode": "BR041",
+      "branchName": "Ahmedabad Branch 41",
+      "branchCity": "Ahmedabad",
+      "branchState": "Gujarat",
+      "latitude": "21.854444",
+      "longitude": "76.214923"
+    },
+    {
+      "branchCode": "BR042",
+      "branchName": "Nagpur Branch 42",
+      "branchCity": "Nagpur",
+      "branchState": "Maharashtra",
+      "latitude": "22.004339",
+      "longitude": "81.072903"
+    },
+    {
+      "branchCode": "BR043",
+      "branchName": "Nagpur Branch 43",
+      "branchCity": "Nagpur",
+      "branchState": "Maharashtra",
+      "latitude": "19.934713",
+      "longitude": "75.708251"
+    },
+    {
+      "branchCode": "BR044",
+      "branchName": "Nagpur Branch 44",
+      "branchCity": "Nagpur",
+      "branchState": "Maharashtra",
+      "latitude": "18.004166",
+      "longitude": "81.144510"
+    },
+    {
+      "branchCode": "BR045",
+      "branchName": "Coimbatore Branch 45",
+      "branchCity": "Coimbatore",
+      "branchState": "Tamil Nadu",
+      "latitude": "18.341239",
+      "longitude": "79.928729"
+    },
+    {
+      "branchCode": "BR046",
+      "branchName": "Jaipur Branch 46",
+      "branchCity": "Jaipur",
+      "branchState": "Rajasthan",
+      "latitude": "24.334940",
+      "longitude": "79.424550"
+    },
+    {
+      "branchCode": "BR047",
+      "branchName": "Mumbai Branch 47",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": "16.228714",
+      "longitude": "75.281467"
+    },
+    {
+      "branchCode": "BR048",
+      "branchName": "Lucknow Branch 48",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "24.100494",
+      "longitude": "79.975194"
+    },
+    {
+      "branchCode": "BR049",
+      "branchName": "Vijayawada Branch 49",
+      "branchCity": "Vijayawada",
+      "branchState": "Andhra Pradesh",
+      "latitude": "15.288947",
+      "longitude": "78.722622"
+    },
+    {
+      "branchCode": "BR050",
+      "branchName": "Chandigarh Branch 50",
+      "branchCity": "Chandigarh",
+      "branchState": "Chandigarh",
+      "latitude": "20.262202",
+      "longitude": "74.584910"
+    },
+    {
+      "branchCode": "BR051",
+      "branchName": "Bhopal Branch 51",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "22.584793",
+      "longitude": "81.344387"
+    },
+    {
+      "branchCode": "BR052",
+      "branchName": "Nagpur Branch 52",
+      "branchCity": "Nagpur",
+      "branchState": "Maharashtra",
+      "latitude": "24.440150",
+      "longitude": "81.301147"
+    },
+    {
+      "branchCode": "BR053",
+      "branchName": "Bangalore Branch 53",
+      "branchCity": "Bangalore",
+      "branchState": "Karnataka",
+      "latitude": "18.424594",
+      "longitude": "82.978575"
+    },
+    {
+      "branchCode": "BR054",
+      "branchName": "Vijayawada Branch 54",
+      "branchCity": "Vijayawada",
+      "branchState": "Andhra Pradesh",
+      "latitude": "18.231345",
+      "longitude": "78.600739"
+    },
+    {
+      "branchCode": "BR055",
+      "branchName": "Visakhapatnam Branch 55",
+      "branchCity": "Visakhapatnam",
+      "branchState": "Andhra Pradesh",
+      "latitude": "22.473033",
+      "longitude": "80.538595"
+    },
+    {
+      "branchCode": "BR056",
+      "branchName": "Pune Branch 56",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "20.906441",
+      "longitude": "75.941203"
+    },
+    {
+      "branchCode": "BR057",
+      "branchName": "Lucknow Branch 57",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "17.140414",
+      "longitude": "77.003792"
+    },
+    {
+      "branchCode": "BR058",
+      "branchName": "Coimbatore Branch 58",
+      "branchCity": "Coimbatore",
+      "branchState": "Tamil Nadu",
+      "latitude": "23.269863",
+      "longitude": "82.084787"
+    },
+    {
+      "branchCode": "BR059",
+      "branchName": "Chennai Branch 59",
+      "branchCity": "Chennai",
+      "branchState": "Tamil Nadu",
+      "latitude": "15.882354",
+      "longitude": "78.753586"
+    },
+    {
+      "branchCode": "BR060",
+      "branchName": "Coimbatore Branch 60",
+      "branchCity": "Coimbatore",
+      "branchState": "Tamil Nadu",
+      "latitude": "21.879634",
+      "longitude": "80.196587"
+    },
+    {
+      "branchCode": "BR061",
+      "branchName": "Lucknow Branch 61",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "21.266128",
+      "longitude": "74.472396"
+    },
+    {
+      "branchCode": "BR062",
+      "branchName": "Chennai Branch 62",
+      "branchCity": "Chennai",
+      "branchState": "Tamil Nadu",
+      "latitude": "16.728639",
+      "longitude": "79.993705"
+    },
+    {
+      "branchCode": "BR063",
+      "branchName": "Pune Branch 63",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "18.182053",
+      "longitude": "77.815374"
+    },
+    {
+      "branchCode": "BR064",
+      "branchName": "Pune Branch 64",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "18.406380",
+      "longitude": "78.725941"
+    },
+    {
+      "branchCode": "BR065",
+      "branchName": "Mumbai Branch 65",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": "23.404358",
+      "longitude": "73.234735"
+    },
+    {
+      "branchCode": "BR066",
+      "branchName": "Bhopal Branch 66",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "24.316386",
+      "longitude": "73.526851"
+    },
+    {
+      "branchCode": "BR067",
+      "branchName": "Pune Branch 67",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "17.173805",
+      "longitude": "76.944460"
+    },
+    {
+      "branchCode": "BR068",
+      "branchName": "Mumbai Branch 68",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": "17.666143",
+      "longitude": "73.559406"
+    },
+    {
+      "branchCode": "BR069",
+      "branchName": "Indore Branch 69",
+      "branchCity": "Indore",
+      "branchState": "Madhya Pradesh",
+      "latitude": "23.069195",
+      "longitude": "76.130626"
+    },
+    {
+      "branchCode": "BR070",
+      "branchName": "Nagpur Branch 70",
+      "branchCity": "Nagpur",
+      "branchState": "Maharashtra",
+      "latitude": "18.611901",
+      "longitude": "76.993231"
+    },
+    {
+      "branchCode": "BR071",
+      "branchName": "Surat Branch 71",
+      "branchCity": "Surat",
+      "branchState": "Gujarat",
+      "latitude": "16.562452",
+      "longitude": "78.132037"
+    },
+    {
+      "branchCode": "BR072",
+      "branchName": "Chennai Branch 72",
+      "branchCity": "Chennai",
+      "branchState": "Tamil Nadu",
+      "latitude": "24.952063",
+      "longitude": "75.808731"
+    },
+    {
+      "branchCode": "BR073",
+      "branchName": "Pune Branch 73",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "17.617199",
+      "longitude": "81.991704"
+    },
+    {
+      "branchCode": "BR074",
+      "branchName": "Bangalore Branch 74",
+      "branchCity": "Bangalore",
+      "branchState": "Karnataka",
+      "latitude": "18.194195",
+      "longitude": "74.510766"
+    },
+    {
+      "branchCode": "BR075",
+      "branchName": "Vijayawada Branch 75",
+      "branchCity": "Vijayawada",
+      "branchState": "Andhra Pradesh",
+      "latitude": "16.567945",
+      "longitude": "78.594565"
+    },
+    {
+      "branchCode": "BR076",
+      "branchName": "Jaipur Branch 76",
+      "branchCity": "Jaipur",
+      "branchState": "Rajasthan",
+      "latitude": "24.522741",
+      "longitude": "76.411290"
+    },
+    {
+      "branchCode": "BR077",
+      "branchName": "Chennai Branch 77",
+      "branchCity": "Chennai",
+      "branchState": "Tamil Nadu",
+      "latitude": "22.763986",
+      "longitude": "79.934790"
+    },
+    {
+      "branchCode": "BR078",
+      "branchName": "Chandigarh Branch 78",
+      "branchCity": "Chandigarh",
+      "branchState": "Chandigarh",
+      "latitude": "20.092598",
+      "longitude": "78.573796"
+    },
+    {
+      "branchCode": "BR079",
+      "branchName": "Bhopal Branch 79",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "24.743139",
+      "longitude": "81.573139"
+    },
+    {
+      "branchCode": "BR080",
+      "branchName": "Bangalore Branch 80",
+      "branchCity": "Bangalore",
+      "branchState": "Karnataka",
+      "latitude": "18.244563",
+      "longitude": "75.472427"
+    },
+    {
+      "branchCode": "BR081",
+      "branchName": "Bangalore Branch 81",
+      "branchCity": "Bangalore",
+      "branchState": "Karnataka",
+      "latitude": "17.663894",
+      "longitude": "78.002351"
+    },
+    {
+      "branchCode": "BR082",
+      "branchName": "Pune Branch 82",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "15.779291",
+      "longitude": "80.335958"
+    },
+    {
+      "branchCode": "BR083",
+      "branchName": "Lucknow Branch 83",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "17.744195",
+      "longitude": "79.123671"
+    },
+    {
+      "branchCode": "BR084",
+      "branchName": "Jaipur Branch 84",
+      "branchCity": "Jaipur",
+      "branchState": "Rajasthan",
+      "latitude": "21.774037",
+      "longitude": "78.689968"
+    },
+    {
+      "branchCode": "BR085",
+      "branchName": "Mumbai Branch 85",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": "18.584803",
+      "longitude": "82.112719"
+    },
+    {
+      "branchCode": "BR086",
+      "branchName": "Jaipur Branch 86",
+      "branchCity": "Jaipur",
+      "branchState": "Rajasthan",
+      "latitude": "15.419330",
+      "longitude": "82.678671"
+    },
+    {
+      "branchCode": "BR087",
+      "branchName": "Pune Branch 87",
+      "branchCity": "Pune",
+      "branchState": "Maharashtra",
+      "latitude": "19.969096",
+      "longitude": "73.620485"
+    },
+    {
+      "branchCode": "BR088",
+      "branchName": "Ahmedabad Branch 88",
+      "branchCity": "Ahmedabad",
+      "branchState": "Gujarat",
+      "latitude": "22.540765",
+      "longitude": "80.304162"
+    },
+    {
+      "branchCode": "BR089",
+      "branchName": "Bhopal Branch 89",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "17.398404",
+      "longitude": "76.671207"
+    },
+    {
+      "branchCode": "BR090",
+      "branchName": "Patna Branch 90",
+      "branchCity": "Patna",
+      "branchState": "Bihar",
+      "latitude": "19.967962",
+      "longitude": "74.228050"
+    },
+    {
+      "branchCode": "BR091",
+      "branchName": "Jaipur Branch 91",
+      "branchCity": "Jaipur",
+      "branchState": "Rajasthan",
+      "latitude": "24.716576",
+      "longitude": "79.535000"
+    },
+    {
+      "branchCode": "BR092",
+      "branchName": "Bangalore Branch 92",
+      "branchCity": "Bangalore",
+      "branchState": "Karnataka",
+      "latitude": "15.630944",
+      "longitude": "75.081460"
+    },
+    {
+      "branchCode": "BR093",
+      "branchName": "Hyderabad Branch 93",
+      "branchCity": "Hyderabad",
+      "branchState": "Telangana",
+      "latitude": "20.674811",
+      "longitude": "81.183537"
+    },
+    {
+      "branchCode": "BR094",
+      "branchName": "Indore Branch 94",
+      "branchCity": "Indore",
+      "branchState": "Madhya Pradesh",
+      "latitude": "24.293320",
+      "longitude": "78.974098"
+    },
+    {
+      "branchCode": "BR095",
+      "branchName": "Nagpur Branch 95",
+      "branchCity": "Nagpur",
+      "branchState": "Maharashtra",
+      "latitude": "17.071085",
+      "longitude": "78.861093"
+    },
+    {
+      "branchCode": "BR096",
+      "branchName": "Delhi Branch 96",
+      "branchCity": "Delhi",
+      "branchState": "Delhi",
+      "latitude": "20.143721",
+      "longitude": "73.676512"
+    },
+    {
+      "branchCode": "BR097",
+      "branchName": "Indore Branch 97",
+      "branchCity": "Indore",
+      "branchState": "Madhya Pradesh",
+      "latitude": "22.252657",
+      "longitude": "79.900542"
+    },
+    {
+      "branchCode": "BR098",
+      "branchName": "Bhopal Branch 98",
+      "branchCity": "Bhopal",
+      "branchState": "Madhya Pradesh",
+      "latitude": "21.082215",
+      "longitude": "82.001839"
+    },
+    {
+      "branchCode": "BR099",
+      "branchName": "Lucknow Branch 99",
+      "branchCity": "Lucknow",
+      "branchState": "Uttar Pradesh",
+      "latitude": "22.960449",
+      "longitude": "76.516962"
+    },
+    {
+      "branchCode": "BR100",
+      "branchName": "Indore Branch 100",
+      "branchCity": "Indore",
+      "branchState": "Madhya Pradesh",
+      "latitude": "21.388363",
+      "longitude": "75.755871"
+    }
+  ]
+}
